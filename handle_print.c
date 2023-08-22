@@ -1,9 +1,6 @@
 #include "main.h"
-
 /* comment made*/
-
 /* comment made */
-
 /**
  * handle_print - Prints an argument based on its type
  * @fmt: Formatted string in which to print the arguments.
