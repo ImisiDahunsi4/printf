@@ -1,7 +1,7 @@
 #include <limits.h>
 #include <stdio.h>
 #include "main.h"
-// Comment should be made
+/* Comment should be made */
 /**
  * main - Entry point
  *
