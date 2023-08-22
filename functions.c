@@ -1,7 +1,6 @@
 #include "main.h"
 /* This is the comment you should make */
 /************************* PRINT CHAR *************************/
-// another one
 /**
  * print_char - Prints a char
  * @types: List a of arguments
