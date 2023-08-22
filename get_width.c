@@ -1,5 +1,5 @@
 #include "main.h"
-// Comment should be made
+/* Comment should be made */
 /**
  * get_width - Calculates the width for printing
  * @format: Formatted string in which to print the arguments.
